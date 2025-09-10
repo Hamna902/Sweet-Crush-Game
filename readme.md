@@ -6,8 +6,8 @@ A vibrant match-3 puzzle game inspired by Candy Crush, built with HTML, CSS, and
 - Grid-based match-3 gameplay with falling candies 🍬🍭🧁
 - Swap adjacent tiles to create matches of 3 or more
 - Cascading matches with smooth animations
-- Level-based progression with increasing goals (e.g., Level 1: 500 points, Level 2: 600 points)
-- Dynamic move limit that increases with levels (e.g., Level 1: 21 moves, Level 2: 23 moves, Level 3: 27 moves)
+- Level-based progression with increasing goals 
+- Dynamic move limit that increases with levels 
 - Special candies:
 
 1- Color Bomb (🌟): Clears all candies of a type or the entire board with a rainbow glow
@@ -31,7 +31,7 @@ A vibrant match-3 puzzle game inspired by Candy Crush, built with HTML, CSS, and
 - Clone the repo
 ```
 git clone https://github.com/Hamna902/Sweet-Crush-Game.git
-cd sweet crush game
+cd sweet-crush-game
 ```
 - Run locally
 - Open index.html in your browser (double-click or drag into Chrome/Firefox). No server setup required!
@@ -68,7 +68,7 @@ fruit-crush/
 
 3- Match 5 candies to create a color bomb (🌟) or a wrapped candy (🎁) for larger effects.
 
-- Win a level by reaching the goal score within the move limit (increases with levels, e.g., 21 moves for Level 1, 23 for Level 2).
+- Win a level by reaching the goal score within the move limit.
 - After winning, press "OK" to start the next level with a higher goal and more moves.
 - Sound effects enhance the experience: matches, special candy activations, level wins, and losses.
 
