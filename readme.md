@@ -9,11 +9,9 @@ A vibrant match-3 puzzle game inspired by Candy Crush, built with HTML, CSS, and
 - Level-based progression with increasing goals (e.g., Level 1: 500 points, Level 2: 600 points)
 - Dynamic move limit that increases with levels (e.g., Level 1: 21 moves, Level 2: 23 moves, Level 3: 27 moves)
 - Special candies:
-```
-. Color Bomb (🌟): Clears all candies of a type or the entire board with a rainbow glow
-. Striped Candy (➡️/⬇️): Horizontal match of 4 creates a vertical striped candy (⬇️) that clears a column; vertical match of 4 creates a horizontal striped candy (➡️) that clears a row
-. Wrapped Candy (🎁): Clears a 3x3 area with a sparkling wrapper
-```
+1- Color Bomb (🌟): Clears all candies of a type or the entire board with a rainbow glow
+2- Striped Candy (➡️/⬇️): Horizontal match of 4 creates a vertical striped candy (⬇️) that clears a column; vertical match of 4 creates a horizontal striped candy (➡️) that clears a row
+3- Wrapped Candy (🎁): Clears a 3x3 area with a sparkling wrapper
 - Sound effects for matches, special candy activations, level completion, and game over
 - Colorful design with vibrant candy visuals, gradients, and animations
 - Responsive layout for desktop and mobile
@@ -59,11 +57,10 @@ fruit-crush/
 - New candies fall smoothly to fill the board.
 - Earn points per match (10 points per candy).
 - Special candies:
-```
-. Match 4 candies horizontally to create a vertical striped candy (⬇️) that clears a column when activated.
-. Match 4 candies vertically to create a horizontal striped candy (➡️) that clears a row when activated.
-. Match 5 candies to create a color bomb (🌟) or a wrapped candy (🎁) for larger effects.
-```
+1- Match 4 candies horizontally to create a vertical striped candy (⬇️) that clears a column when activated.
+2- Match 4 candies vertically to create a horizontal striped candy (➡️) that clears a row when activated.
+3- Match 5 candies to create a color bomb (🌟) or a wrapped candy (🎁) for larger effects.
+
 - Win a level by reaching the goal score within the move limit (increases with levels, e.g., 21 moves for Level 1, 23 for Level 2).
 - After winning, press "OK" to start the next level with a higher goal and more moves.
 - Sound effects enhance the experience: matches, special candy activations, level wins, and losses.
