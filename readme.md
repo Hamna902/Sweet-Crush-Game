@@ -79,6 +79,11 @@ fruit-crush/
 - Enhance mobile touch controls with swipe gestures.
 - Add more special candy combinations and effects.
 
+## 📸 Preview
+
+![Project Poster](preview.png)  
+
+
 ## 📜 Author
 HAMNA NAZAR
 
