@@ -1,4 +1,4 @@
-### Fruit Crush 🍬
+### Sweet Crush 🍬
 A vibrant match-3 puzzle game inspired by Candy Crush, built with HTML, CSS, and JavaScript. Swap colorful candies to make rows or columns of 3 or more and score points!
 
 ## 🎮 Features
